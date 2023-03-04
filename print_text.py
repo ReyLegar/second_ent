@@ -1,5 +1,1 @@
-def printing(text):
-  print(text)
- 
- 
- printing("Hello")
+print(2 + 2)
